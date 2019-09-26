@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[移动开发所需要知道http知识]]></title>
+    <url>%2F2019%2F09%2F26%2F%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%89%80%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93http%E7%9F%A5%E8%AF%86%2F</url>
+    <content type="text"><![CDATA[移动开发所需要知道HTTP知识 移动开发所需要知道HTTP知识 测试测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1测试1]]></content>
+      <categories>
+        <category>移动开发</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F09%2F26%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
